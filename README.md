@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Hani
 - 👀 I’m interested in DevOps, Python, Linux, K8S and Automation
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Cloud autiomation with python
+- 💞️ I’m looking to collaborate on cloud automation with python
